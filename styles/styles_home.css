@@ -1,0 +1,175 @@
+@charset "UTF-8";
+/* CSS Document */
+/* @abuaita */
+
+		
+body {
+	color: #420060;
+	font-family: Lora, sans-serif;
+	font-size: 14px;
+	/*background-color: #E3CDEA;}*/
+	background-color: #FAFAFA;
+}
+
+h1 {
+	color: #000;
+	font-size: 2.2em;
+	font-weight: normal;
+}
+
+a {
+	color: #D6A4D3;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #420060;
+}
+
+hr{
+	margin-top: -20px;
+}
+
+.container {
+	width: 80%;
+	margin: auto;
+    max-width: 1000px;
+}
+
+.abu {
+    font-size: 3em;
+	width: 100%;
+	float: left;
+	color: #000;
+    margin-top: -10px;
+}
+
+.abu h3{
+    font-family: 'Merriweather', serif;
+    font-weight: 300;
+}
+
+.links {
+	font-size: 0.34em;
+    float: right;
+	margin-top: -50px;
+}
+
+.links a{
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+.content{
+    width: 90%;
+    min-width: 700px;
+    margin: auto;
+}
+
+.content_s{
+    width: 100%;
+    min-width: 700px;
+    margin: auto;
+}
+
+.content_s h3{
+    font-size: 28px;
+    font-weight: 100;
+    /* font-style: italic; */
+    font-variant-caps: all-petite-caps;
+}
+
+.descript{
+    min-width: 400px;
+    max-width: 700px;
+    padding-top: 220px;
+    margin-left: 260px;
+}
+
+.descript h5{
+    color: #420060;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.descript .list_main{
+    color: #420060;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.footer{
+    height: 10px;
+    background-color: #420060;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    padding: 1px;
+}
+
+.hey{
+    font-size: 36px;
+}
+
+.im{
+    font-size: 24px;
+}
+
+.list_sub{
+     font-size: 16px;
+     padding-left: 10px;
+ }
+
+.list_sub_s{
+    font-size: 12px;
+    padding-left: 10px;
+}
+
+.list_sub_desc{
+    font-size: 12px;
+}
+
+.list_main{
+    margin-top: 10px;
+}
+
+.list_main_s{
+    margin-top: -24px;
+    margin-bottom: 30px;
+}
+
+.list_main_s li{
+    padding-top: 12px;
+    font-weight: 800;
+}
+
+.list_main li{
+    padding-top: 12px;
+    font-weight: 800;
+}
+
+.blue:hover{
+    text-shadow: 0px 0px 20px #0096ff;
+}
+
+.content_contact{
+    width: 400px;
+    margin: auto;
+}
+.contact_images{
+    width: 400px;
+}
+
+.contact{
+    text-align: center;
+    font-size: 24px;
+    margin-top: 10px;
+    margin-bottom: -14px;
+}
+
+.turnoutimg{
+    width: 335px;
+    margin-top: 40px;
+    float: right;
+}
