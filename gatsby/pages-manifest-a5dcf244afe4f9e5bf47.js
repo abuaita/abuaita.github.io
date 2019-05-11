@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{145:function(e){e.exports={pages:[{componentChunkName:"component---src-pages-index-js",jsonName:"index",path:"/"},{componentChunkName:"component---src-pages-wheelsvg-js",jsonName:"wheelsvg-b02",path:"/wheelsvg/"}],dataPaths:{"dev-404-page-5f9":"386/path---dev-404-page-5-f-9-fab-0SUcWyAf8ecbYDsMhQkEfPzV8",index:"140/path---index-6a9-0SUcWyAf8ecbYDsMhQkEfPzV8","wheelsvg-b02":"393/path---wheelsvg-b-02-f75-0SUcWyAf8ecbYDsMhQkEfPzV8"}}}}]);
+//# sourceMappingURL=pages-manifest-a5dcf244afe4f9e5bf47.js.map
